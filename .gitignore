@@ -1,0 +1,6 @@
+/.env
+/.idea
+/.streamlit
+/venv
+/yet-another-rag-app
+/default.sqlite
